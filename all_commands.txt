@@ -1,4 +1,6 @@
-    1  clear
+These are some commands:
+    
+1  clear
     2  lsb_release
     3  lsb_release -a
     4  clear
